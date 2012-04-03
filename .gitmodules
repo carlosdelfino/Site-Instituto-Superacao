@@ -1,3 +1,3 @@
-[submodule "templates/isuperacao_v_0_1"]
+[submodule "isuperacao_v_0_1"]
 	path = templates/isuperacao_v_0_1
 	url = ssh://git@github.com/carlosdelfino/Site-Instituto-Superacao_Template-Joomla.git
